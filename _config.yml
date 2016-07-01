@@ -2,22 +2,22 @@
 title: 聚木成林，积少成多
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "POPLAR|聚木成林，积少成多"
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://blog.abcmumu.com"
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Poplar"
+  email: atfeng2011@qq.com
+  bio: "学习是一种信仰"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  
-twitter_username: 
+douban_username:
+twitter_username: somanywf
 github_username: 
 facebook_username: 
 weibo_username: 
